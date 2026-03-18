@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/screener-site/iknow-ingestion/internal/adapter"
+	"github.com/tech-screen/iknow-ingestion/internal/adapter"
 )
 
 // Adapter implements adapter.Adapter for Zendesk webhooks.

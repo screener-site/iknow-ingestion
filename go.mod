@@ -1,4 +1,4 @@
-module github.com/screener-site/iknow-ingestion
+module github.com/tech-screen/iknow-ingestion
 
 go 1.23
 

@@ -9,10 +9,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/screener-site/iknow-ingestion/internal/adapter"
-	"github.com/screener-site/iknow-ingestion/internal/envelope"
-	"github.com/screener-site/iknow-ingestion/internal/kafka"
-	"github.com/screener-site/iknow-ingestion/internal/zendesk"
+	"github.com/tech-screen/iknow-ingestion/internal/adapter"
+	"github.com/tech-screen/iknow-ingestion/internal/envelope"
+	"github.com/tech-screen/iknow-ingestion/internal/kafka"
+	"github.com/tech-screen/iknow-ingestion/internal/zendesk"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/screener-site/iknow-ingestion/internal/adapter"
+	"github.com/tech-screen/iknow-ingestion/internal/adapter"
 )
 
 // RawEvent is the struct that gets serialized and published to Kafka.
